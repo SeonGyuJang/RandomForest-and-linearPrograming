@@ -1,6 +1,6 @@
 # KUS_OA
 1. Data_OG.csv 파일을 올바른 경로에 다운 받는다.
-2. RandomForest.py 파일을 실행시킨다. ( Pre_data.csv 및 Pre_data_Marketing.csv가 생성됨 )
+2. RandomForest.py 파일을 실행시킨다. ( Pre_data.csv 및 Pre_data_Marketing.csv,OA_AI_model.pk1이 생성됨 )
 3. Linear_Programing.py 파일을 실행시킨다. ( LP.txt가 생성됨 )
 
 --------------------------------------------------------------------------------------------------------------------
